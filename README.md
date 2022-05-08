@@ -7,7 +7,7 @@ When giving some lectures at the university I realized that there is no software
 The idea of the app was to plan your presentations and integrate every documents from the speakers without installing a complex server side infrastructure.
 Everyone knows the stuggle with the technics with different notebooks. 
 So on the day of the presentation you can simply start the conference on one computer and adjust the schedule to changes during ongoing lectures.
-The idea was realized the last months and you can try it here:
+After a lot of month, implementing some prototypes and stuggling hard, the software can get release now. Try it for free and please rate it in the Mac App Store. Thanks so much :)
 
 # Installation
 Go to the <a href="https://apps.apple.com/us/app/predirector/id1606507167">Mac App Store</a> and download the App "Predirector". 
